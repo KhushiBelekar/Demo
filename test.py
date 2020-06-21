@@ -1,2 +1,3 @@
 import math
-print(math.sqrt(121))
+number = int(input())
+print(math.sqrt(number))
